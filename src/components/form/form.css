@@ -1,0 +1,4 @@
+.form-image{
+    display: flex;
+    flex-direction: column;
+}

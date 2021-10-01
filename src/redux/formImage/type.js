@@ -1,0 +1,1 @@
+export const INSERT_FORM_DATA = 'INSERT_FORM_DATA'
